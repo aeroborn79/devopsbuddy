@@ -25,3 +25,5 @@ target
 .classpath
 .project
 .setting
+.idea
+.devopsbuddy.iml
