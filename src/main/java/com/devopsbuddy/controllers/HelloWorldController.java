@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HelloWorldController {
 	
 	@RequestMapping("/")
-	public String sayHello() {		
-		return "index";		
+	public String sayHello() {
+		return "index";
 	}
 
 }
